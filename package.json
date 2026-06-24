@@ -8,4 +8,6 @@
     "flowbite": "^1.8.1",
     "tinacms": "^3.9.3"
   }
+  "scripts": {
+    "tinacms": "tinacms",
 }
